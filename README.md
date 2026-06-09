@@ -2,7 +2,7 @@
 
 Welcome to the repository for my very first personal portfolio website! This project serves as a digital home to showcase my skills, projects, and growth as a web developer. It features a fully custom design with smooth interactions and responsive layouts.
 
-✨ **[Live Demo Link](ADD_YOUR_LIVE_DEPLOYMENT_URL_HERE)**
+✨ **[Live Demo Link](https://paridhi-git-1303.github.io/my-portfolio/)**
 
 ---
 
